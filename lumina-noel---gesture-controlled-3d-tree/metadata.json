@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Noel - Gesture Controlled 3D Tree",
+  "description": "A high-end, cinematic 3D Christmas experience controlled by hand gestures. Upload photos, form a tree, or scatter them into a starry cloud using MediaPipe hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
